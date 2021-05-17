@@ -1,0 +1,17 @@
+{
+  "feeTypes": [
+    "",
+    "Free",
+    "Paid"
+  ],
+  "vaccines": [
+    "",
+    "COVAXIN",
+    "COVISHIELD"
+  ],
+  "minAgeLimit": {
+    "0": "",
+    "18": "18+",
+    "45": "45+"
+  }
+}
